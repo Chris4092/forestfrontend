@@ -1,0 +1,11 @@
+td{
+    min-width: 75px;
+}
+
+tr:hover {
+    background-color: #E0FFFF;
+  }
+  
+tr.selected {
+    background-color: #00FFFF;
+}
